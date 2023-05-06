@@ -607,6 +607,10 @@ label span span {
     html {
         font-size: 50%;
     }
+
+    #services{
+        min-height: unset;
+    }
 }
 
 @media(max-width:800px) {
