@@ -605,6 +605,7 @@ label span span {
 
 @media (max-width:450px) {
     html {
+        overflow-x:hidden;
         font-size: 50%;
     }
 
