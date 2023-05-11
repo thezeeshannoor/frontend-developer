@@ -10,7 +10,9 @@
     scroll-behavior: smooth;
     font-family: 'Poppins', sans-serif;
 }
-
+i:focus{
+    outline: 0;
+}
 .swal2-popup {
     font-size: 1.6rem !important;
     font-family: 'Poppins', sans-serif;
